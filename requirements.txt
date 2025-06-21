@@ -8,3 +8,5 @@ pycodestyle==2.13.0
 pyflakes==3.3.2
 sqlparse==0.5.3
 gunicorn==21.2.0
+pytest-django ==4.5.2
+pytest==8.4.0
