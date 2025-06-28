@@ -10,5 +10,6 @@ class HelloWorldView(View):
         ip = host.split(':')[0] 
         return JsonResponse({
             'message': 'Yes, you connected successfully!',
-            'api': ip
+            'api': ip,
+            'status': 'after the update of auto scaling group'
         })
