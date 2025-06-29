@@ -3,7 +3,8 @@
 ````markdown
 # 🏗️ Django Project — CI/CD with TeamCity, SonarQube, AWS ECR & Auto Scaling
 
-![Architecture Diagram]![image](https://github.com/user-attachments/assets/72dad90d-1d4b-4271-9659-6015fc18507e)
+![image](https://github.com/user-attachments/assets/86b23f6e-417a-4b4f-8218-94d9634df8d7)
+
 
 
 ---
