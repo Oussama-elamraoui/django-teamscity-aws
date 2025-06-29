@@ -185,6 +185,4 @@ aws autoscaling start-instance-refresh \
 ---
 
 
-```
-
 
