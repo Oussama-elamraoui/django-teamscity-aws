@@ -1,6 +1,6 @@
 ---
 
-````markdown
+
 # 🏗️ Django Project — CI/CD with TeamCity, SonarQube, AWS ECR & Auto Scaling
 
 ![image](https://github.com/user-attachments/assets/86b23f6e-417a-4b4f-8218-94d9634df8d7)
